@@ -1,0 +1,17 @@
+package java8features;
+
+/**
+* Author :Koppula.Reddy
+* Date   :Nov 9, 2024
+* Time   :2:38:30 PM
+* email  :Koppula.Reddy@coforge.com
+*/
+
+public class StreamExample4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

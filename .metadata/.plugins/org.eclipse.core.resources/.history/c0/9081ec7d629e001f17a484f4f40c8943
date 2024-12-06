@@ -1,0 +1,17 @@
+package java8features;
+
+/**
+* Author :Koppula.Reddy
+* Date   :Nov 9, 2024
+* Time   :11:20:59 AM
+* email  :Koppula.Reddy@coforge.com
+*/
+
+public class DefaultMethodDemo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

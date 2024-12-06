@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="jdbc.employees"/>
+		<item value="out"/>
+	</list>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="package arraydemo;"/>
+		<list key="findhistory">
+			<item value="package arraydemo;"/>
+		</list>
+	</section>
+</section>

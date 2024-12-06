@@ -1,0 +1,17 @@
+package java8features;
+
+/**
+* Author :Koppula.Reddy
+* Date   :Nov 9, 2024
+* Time   :3:44:24 PM
+* email  :Koppula.Reddy@coforge.com
+*/
+
+public class StaticImportDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

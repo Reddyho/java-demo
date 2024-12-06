@@ -1,0 +1,17 @@
+package stringsDemo;
+
+/**
+* Author :Koppula.Reddy
+* Date   :Oct 30, 2024
+* Time   :4:57:05 PM
+* email  :Koppula.Reddy@coforge.com
+*/
+
+public class StringManipulationDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
